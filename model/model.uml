@@ -3,7 +3,7 @@
   <packageImport xmi:type="uml:PackageImport" xmi:id="_BRsC0AsiEeiLEsdVnFndVQ">
     <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
   </packageImport>
-  <packagedElement xmi:type="uml:Class" xmi:id="_O3B3IAsiEeiLEsdVnFndVQ" name="Agent"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_O3B3IAsiEeiLEsdVnFndVQ" name="Agents"/>
   <packagedElement xmi:type="uml:Class" xmi:id="_Q7S08AsiEeiLEsdVnFndVQ" name="Règle1"/>
   <packagedElement xmi:type="uml:Interface" xmi:id="_argx0AsiEeiLEsdVnFndVQ" name="Règle"/>
   <packagedElement xmi:type="uml:Class" xmi:id="_cdbbYAsiEeiLEsdVnFndVQ" name="CopyOf_Règle1_1"/>
